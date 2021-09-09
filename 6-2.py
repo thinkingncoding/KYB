@@ -1,4 +1,4 @@
-#테스트
+#테스트 깃허브에서 추가
 import pygame
 import sys
 from pygame.locals import *
